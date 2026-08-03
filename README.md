@@ -12,8 +12,7 @@
   * S. Arun Ulagappan
   * A. Vishaal
   * Akash S J
-* **Submission Date:** October 04, 2026
-* **Core Technology:** Cheminformatics (RDKit) + Machine Learning (Scikit-Learn)
+
 
 ---
 
