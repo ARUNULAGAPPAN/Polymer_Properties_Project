@@ -12,8 +12,6 @@
   * S. Arun Ulagappan
   * A. Vishaal
   * Akash S J
-
-
 ---
 
 ## 📝 Project Concept
