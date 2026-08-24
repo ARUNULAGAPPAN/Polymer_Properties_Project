@@ -34,7 +34,6 @@ This project leverages **Machine Learning (Random Forest Regression)** to predic
   * Molecular Weight (MolWt)
   * LogP (Hydrophobicity)
   * TPSA (Topological Polar Surface Area)
-  * Rotatable Bonds
 
 * 🏭 **Industrial Polymer Library**
   Includes pre-loaded high-performance polymers:
