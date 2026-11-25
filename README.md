@@ -20,9 +20,6 @@
 
 In traditional polymer science, determining key physical properties such as **Glass Transition Temperature (Tg)** and **Density** requires expensive laboratory instruments like Differential Scanning Calorimetry (DSC).
 
-This project leverages **Machine Learning (Random Forest Regression)** to predict these properties instantly using only the polymer’s **chemical structure (SMILES string)**.
-
-👉 It functions as a **Virtual Lab**, enabling chemical technologists to evaluate materials before synthesis.
 
 ---
 
